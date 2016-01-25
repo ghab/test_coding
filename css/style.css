@@ -110,6 +110,45 @@ body {
 }
 
 
+/*Nav Top*/
+.nav {
+	width: 100%;
+	background-color: #fff;
+	border-bottom: 1px solid #b7b7b7;
+}
+.nav ul {
+	max-width: 1004px;
+	position: relative;
+	display: block;
+	margin: 0 auto;
+}
+.nav li:first-child {
+	margin: 0 0 0 0;
+	border-left: none;
+}
+.nav li {
+	width: 33.3%;
+	float: left;
+	margin: 0 0 0 0;
+	border-left: 1px solid #b7b7b7;
+	box-sizing: border-box;
+}
+.nav li img {
+	display: block;
+	margin: 0 9px 0 0;
+	text-align: center;
+	float: left;
+}
+.nav a {
+    display: block;
+    width: 100%;
+    padding: 22px 0 0 108px;
+    min-height: 74px;
+    font: 16px/38px 'open_sanslight';
+    color: #000;
+    text-align: left;
+	box-sizing: border-box;
+}
 
 
 
