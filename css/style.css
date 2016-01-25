@@ -97,6 +97,17 @@ body {
 
 
 
+/* Wrap
+-----------------------------------------------------------------------------*/
+.wrap {
+	min-width: 100%;
+	max-width: 1920px;
+	margin: 0 auto;
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+	padding-bottom: 89px;
+}
 
 
 
