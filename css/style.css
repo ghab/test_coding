@@ -172,6 +172,19 @@ body {
 }
 
 
+/*Cont Articl*/
+ .cont__art_box {
+ 	width: 100%;
+ 	padding: 0 0 0 0;
+ 	text-align: center;
+ 	background-color: #f8f8f8;
+	border-bottom: 1px solid #b7b7b7;
+ }
+ .cont__art_box p {
+	font: 32px 'open_sanslight';
+	color: #000;
+	padding: 12px 0 15px 0;
+ }
 
 
 
