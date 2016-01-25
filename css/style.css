@@ -370,6 +370,41 @@ body {
 }
 
 
+@media screen and (max-width:560px) {
+	body .nav a {
+	    font-size: 17px;
+	    line-height: 38px;
+	    padding: 8px 20px 8px 20px;
+	    min-height: auto;
+	}
+	body .nav li img {
+		width: 17%;
+		margin-top: 7px;
+	}
+	body .cont__text_1 {
+		font-size: 17px;
+	    padding-left: 5%;
+	}
+	body .cont__text_1:before {
+	    content: '';
+	    width: 34px;
+	    height: 30px;
+	    background-size: contain;
+	}
+	body .cont__text_2 {
+	    font-size: 30px;
+	    padding: 4px 42px 0 42px;
+	    line-height: 40px;
+	}
+	body .text_box_btn {
+	    font: 29.2px 'open_sansregular';
+	    padding: 21px 22%;
+	}
+
+	body .footer__text_box p {
+		font-size: 12px;
+	}
+}
 
 
 
