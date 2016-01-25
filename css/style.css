@@ -355,6 +355,20 @@ body {
 }
 
 
+@media screen and (max-width:600px) {
+	body .nav a {
+		font-size: 20px;
+		line-height: 38px;
+		padding: 31px 20px 31px 20px;
+	}
+	body .cont__text_1 {
+		padding-left: 8%;
+	}
+	body .text_box_btn {
+		padding: 41px 22%;
+	}
+}
+
 
 
 
