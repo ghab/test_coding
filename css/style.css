@@ -276,6 +276,25 @@ body {
 
 
 
+/* Media Query
+-----------------------------------------------------------------------------*/
+@media screen and (max-width:900px) {
+	body .nav a {
+		padding-left: 33%;
+	}
+}
+
+@media screen and (max-width:768px) {
+	body .nav a {
+		padding-left: 30%;
+	}
+}
+
+@media screen and (max-width:768px) {
+	body .nav a {
+		padding-left: 25%;
+	}
+}
 
 
 
