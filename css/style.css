@@ -244,6 +244,34 @@ body {
 
 
 
+/* Footer
+-----------------------------------------------------------------------------*/
+.footer {
+	margin: -81px auto 0;
+	min-width: 100%;
+	max-width: 1920px;
+	clear: both;
+}
+
+/*Footer text Box*/
+.footer__text_box {
+	max-width: 1004px;
+	width: 100%;
+	margin: 0 auto; 
+	min-height: 81px;
+	clear: both;
+	padding: 0 0 0 0;
+}
+.footer__text_box p {
+	font: 12px 'Arial';
+	color: #959595;
+	text-align: center;
+    padding: 4px 0 0 0;
+    box-sizing: border-box;
+}
+
+
+
 
 
 
