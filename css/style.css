@@ -297,6 +297,64 @@ body {
 }
 
 
+@media screen and (max-width:640px) {
+	body .wrap {
+		padding-bottom: 200px;
+	}
+	body .nav a {
+		padding: 31px 20px 31px 20px;
+		 font: 24px 'open_sanslight'; 
+	}
+	body .nav li img {
+		padding-right: 13px;
+	}
+	body .content_w {
+		width: 100%;
+	    padding: 27px 17px 0 17px;
+	    box-sizing: border-box;
+	}
+	body .content_box {
+		width: 100%;
+		box-sizing: border-box;
+	}
+	body .cont__text_1 {
+		float: left;
+		margin: 49px 0 28px 0;
+		padding: 0 0 0 61px;
+		font-size: 28px;
+	}
+	body .cont__text_1:before {
+	    content: '';
+	    width: 93px;
+	    height: 83px;
+	    float: left;
+	    margin: -3px 25px 0 0;
+	    background-image: url('../img/phon_ico_md.png');
+	    background-repeat: no-repeat;
+	    background-position: 0 0;
+	}
+	body .cont__text_2 {
+		font-size: 36px;
+		padding: 4px 42px 0 42px;
+		line-height: 40px;
+	}
+	body .text_box_btn {
+		font-size: 54.2px;
+		margin: 20px auto 55px auto;
+		padding: 41px 147px;
+	}
+
+
+	body .footer {
+		margin-top: -200px;
+	}
+	body .footer__text_box p {
+		font-size: 22px;
+		padding: 4px 0;
+	}
+}
+
+
 
 
 
